@@ -30,7 +30,7 @@ The following changes have been made from Mike Brown's Original Design:
 For all other information about Mike Brown's original design please refer to [Mike Brown's website](https://oric.signal11.org.uk/html/diagrom.htm)
 
 # Ribbon Cable
-The Oric Diagnostic board has been designed to be used with a 34-way ribbon cable and can be used partly when the Oric motherboard is still in the case, altough it is a bit diffult to use the NMI button underneath.
+The Oric Diagnostic board has been designed to be used with a 34-way ribbon cable and can be used partly when the Oric motherboard is still in the case, altough it is a bit difficult to use the NMI button underneath.
 
 <img src="https://github.com/user-attachments/assets/fcc7f0ca-b3a3-4e3b-8d8a-00407bc48600" width="500">
 
