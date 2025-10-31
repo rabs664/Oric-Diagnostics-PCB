@@ -12,7 +12,7 @@ This is a reproduction of Mike Brown's Oric Diagnostic board and loopback harnes
 >will work properly under all circumstances.
 
 # Repository Content
-This repository contains the Kicad and gerber files associated with the Diagnostic board and loopback harnesses.
+This repository contains the KiCad and gerber files associated with the Diagnostic board and loopback harnesses.
 
 # Changes from Mike Brown's Original Design
 The following changes have been made from Mike Brown's Original Design:
@@ -23,14 +23,14 @@ The following changes have been made from Mike Brown's Original Design:
 >[!TIP]
 >I still found the LEDs quite bright and you may consider increasing this value.
 
-* LS components replaced with HCT
+* LS components replaced with HCT.
 
 * 3M holes have been added to allow for standoffs to be fitted.
 
 For all other information about Mike Brown's original design please refer to [Mike Brown's website](https://oric.signal11.org.uk/html/diagrom.htm)
 
 # Ribbon Cable
-The Oric Diagnostic board has been designed to be used with a 34 way ribbon cable and can be used partly when the Oric motherboard is still in the case, altough it is a bit diffult to use the NMI button underneath.
+The Oric Diagnostic board has been designed to be used with a 34-way ribbon cable and can be used partly when the Oric motherboard is still in the case, altough it is a bit diffult to use the NMI button underneath.
 
 <img src="https://github.com/user-attachments/assets/fcc7f0ca-b3a3-4e3b-8d8a-00407bc48600" width="500">
 
