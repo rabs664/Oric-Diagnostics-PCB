@@ -2,7 +2,7 @@
 This is a reproduction of Mike Brown's Oric Diagnostic board and loopback harnesses, see [Mike Brown's Diagnostic ROM and PCB](https://oric.signal11.org.uk/html/diagrom.htm)
 
 >[!NOTE]
->Acknowledgements go to Mike Brown for posting the original design to his website [Oric And Atmos Support](https://oric.signal11.org.uk/index.htm). Many Thanks.
+>Acknowledgements go to Mike Brown for posting the original design to his excellent website [Oric And Atmos Support](https://oric.signal11.org.uk/index.htm). Many Thanks.
 
 ![Diag board and Loopback PCBs](https://github.com/user-attachments/assets/d1dbd898-2688-4ffc-b7ec-fb37d1c7c7c3)
 
@@ -37,6 +37,12 @@ However for the most part it will probably be used when the Oric motherboard has
 Note the orientation of the ribbon connectors and red cable align to pin 1.
 
 ![ribbon cable](https://github.com/user-attachments/assets/7d9fac18-6bba-4eee-b2e0-cdba2e7ed44a)
+
+# Port A Loopback
+The Port A loopback is designed to fit straight into the Oric printer port.
+
+![Port A Loopback 2](https://github.com/user-attachments/assets/7044a5a3-b3ff-4af8-8aa3-1c7c06287635)
+
 
 
 
