@@ -4,7 +4,7 @@ This is a reproduction of Mike Brown's Oric Diagnostic board and loopback harnes
 >[!NOTE]
 >Acknowledgements go to Mike Brown for posting the original design to his excellent website [Oric And Atmos Support](https://oric.signal11.org.uk/index.htm). Many Thanks.
 
-![Diag board and Loopback PCBs](https://github.com/user-attachments/assets/d1dbd898-2688-4ffc-b7ec-fb37d1c7c7c3)
+<img src="https://github.com/user-attachments/assets/d1dbd898-2688-4ffc-b7ec-fb37d1c7c7c3" width="700">
 
 >[!CAUTION]
 >USE AT YOUR OWN RISK.
@@ -28,20 +28,31 @@ For all other information about Mike Brown's original design please refer to [Mi
 # Ribbon Cable
 The Oric Diagnostic board has been designed to be used with a 34 way ribbon cable and can be used partly when the Oric motherboard is still in the case, altough it is a bit diffult to get to the NMI button underneath.
 
-![Using the Diagnostics Board when th](https://github.com/user-attachments/assets/fcc7f0ca-b3a3-4e3b-8d8a-00407bc48600)
+<img src="https://github.com/user-attachments/assets/fcc7f0ca-b3a3-4e3b-8d8a-00407bc48600" width="500">
 
 However for the most part it will probably be used when the Oric motherboard has been removed from the case, but remember the motherboard is normally upside down and hence the twist in the ribbon cable when used in this configuration.
 
-![20251031_131213](https://github.com/user-attachments/assets/633542f1-dc84-4e4b-abd3-7c63b52d13c1)
+<img src="https://github.com/user-attachments/assets/633542f1-dc84-4e4b-abd3-7c63b52d13c1" width="500">
 
 Note the orientation of the ribbon connectors and red cable align to pin 1.
 
-![ribbon cable](https://github.com/user-attachments/assets/7d9fac18-6bba-4eee-b2e0-cdba2e7ed44a)
+<img src="https://github.com/user-attachments/assets/7d9fac18-6bba-4eee-b2e0-cdba2e7ed44a" width="500">
 
 # Port A Loopback
 The Port A loopback is designed to fit straight into the Oric printer port.
 
-![Port A Loopback 2](https://github.com/user-attachments/assets/7044a5a3-b3ff-4af8-8aa3-1c7c06287635)
+<img src="https://github.com/user-attachments/assets/c4c70989-c5b5-4ce6-961c-18877d0efc25" width="300">
+
+>[!TIP]
+>I found it difficult to remove the Port A Loopback when required. In the end I placed a pin header on the wrong side and connected using a ribbon cable.
+
+# Keyboard Loopback
+The Keyboard loopback is design to fit over the end 10 pins.
+
+<img src="https://github.com/user-attachments/assets/4d38d124-1e45-4ed7-8824-667dff0b2661" width="300">
+
+
+
 
 
 
