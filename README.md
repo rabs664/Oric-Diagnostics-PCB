@@ -23,6 +23,8 @@ The following changes have been made from Mike Brown's Original Design:
 >[!TIP]
 >I still found the LEDs quite bright and you may consider increasing this value.
 
+* LS components replaced with HCT
+
 * 3M holes have been added to allow for standoffs to be fitted.
 
 For all other information about Mike Brown's original design please refer to [Mike Brown's website](https://oric.signal11.org.uk/html/diagrom.htm)
