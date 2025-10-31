@@ -75,7 +75,7 @@ The Casette loopback is not part of this repository please refer to [Mike Brown'
 Please refer to [Mike Brown's Diagnostic ROM and PCB page](https://oric.signal11.org.uk/html/diagrom.htm)
 
 >[!NOTE]
->I used a 27C512 EPROM and and copied the 16K ROM image four times to fill the 64K EPROM.
+>I used a 27C512 EPROM and copied the 16K ROM image four times to fill the 64K EPROM.
 
 # Jumpers
 Please refer to [Mike Brown's Diagnostic ROM and PCB page](https://oric.signal11.org.uk/html/diagrom.htm)
