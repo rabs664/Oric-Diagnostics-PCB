@@ -11,8 +11,6 @@
 		(company "and the size of the LED current limiting resistors")
 		(comment 1 "Minor changes have been made around the clock circuit, use of HCT rather than LS ")
 		(comment 2 "This is a redrwan Schematic of Mike Brown's Oric Diag Board")
-		(comment 3 "**** DO NOT USE ****")
-		(comment 4 "**** NOT VERIFIED YET ****")
 	)
 	(lib_symbols
 		(symbol "74xx:74HCT00"
