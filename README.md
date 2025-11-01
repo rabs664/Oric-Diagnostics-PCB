@@ -1,4 +1,4 @@
-# Oric Diagnostics
+# Oric Diagnostics PCB
 This is a reproduction of Mike Brown's Oric Diagnostic board and loopback harnesses, see [Mike Brown's Diagnostic ROM and PCB](https://oric.signal11.org.uk/html/diagrom.htm)
 
 >[!NOTE]
